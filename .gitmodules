@@ -1,0 +1,3 @@
+[submodule "turtlebot3_gazebo"]
+	path = turtlebot3_gazebo
+	url = https://github.com/stathiw/turtlebot3_gazebo.git
